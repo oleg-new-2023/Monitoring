@@ -1,0 +1,9 @@
+{
+    "require-dev": {
+        "rector/rector": "^0.18.10"
+    },
+    "require": {
+        "cboden/ratchet": "^0.4.4",
+        "marcelog/pami": "^2.0"
+    }
+}
